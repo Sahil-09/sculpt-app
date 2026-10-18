@@ -1,0 +1,8147 @@
+[
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396305"
+    },
+    "hevy_id": "3BC06AD3",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "21s Bicep Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396306"
+    },
+    "hevy_id": "B4F2FF72",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Ab Scissors",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396307"
+    },
+    "hevy_id": "99D5F10E",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Ab Wheel",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396308"
+    },
+    "hevy_id": "5E0DDACE",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Aerobics",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396309"
+    },
+    "hevy_id": "43573BB8",
+    "equipment": "machine",
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Air Bike",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39630a"
+    },
+    "hevy_id": "A69FF221",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Arnold Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39630b"
+    },
+    "hevy_id": "D4A2FE7E",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "upper_back",
+      "shoulders",
+      "lats"
+    ],
+    "source": "hevy_api",
+    "title": "Around The World",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39630c"
+    },
+    "hevy_id": "5BFF35BA",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Assisted Pistol Squats",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39630d"
+    },
+    "hevy_id": "4F5866F8",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lower_back",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Back Extension (Hyperextension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39630e"
+    },
+    "hevy_id": "A05C064D",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lower_back",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Back Extension (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39630f"
+    },
+    "hevy_id": "091737FA",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "lower_back",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Back Extension (Weighted Hyperextension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396310"
+    },
+    "hevy_id": "F51D9080",
+    "equipment": "other",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Ball Slams",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396311"
+    },
+    "hevy_id": "E8D86EE8",
+    "equipment": "resistance_band",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Band Pullaparts",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396312"
+    },
+    "hevy_id": "084A67CA",
+    "equipment": "machine",
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Battle Ropes",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396313"
+    },
+    "hevy_id": "B3B1D947",
+    "equipment": null,
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bear Crawl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396314"
+    },
+    "hevy_id": "2DBCA395",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Behind the Back Curl (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396315"
+    },
+    "hevy_id": "DDB29047",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Behind the Back Wrist Curl (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396316"
+    },
+    "hevy_id": "3D1CDC75",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Belt Squat (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396317"
+    },
+    "hevy_id": "CD6DC8E5",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "shoulders",
+      "chest"
+    ],
+    "source": "hevy_api",
+    "title": "Bench Dip",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396318"
+    },
+    "hevy_id": "79D0BB3A",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Bench Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396319"
+    },
+    "hevy_id": "99C1F2AD",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Bench Press (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39631a"
+    },
+    "hevy_id": "35B51B87",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Bench Press - Close Grip (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39631b"
+    },
+    "hevy_id": "3601968B",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Bench Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39631c"
+    },
+    "hevy_id": "0FBF7195",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Bench Press (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39631d"
+    },
+    "hevy_id": "E644F828",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Bench Press - Wide Grip (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39631e"
+    },
+    "hevy_id": "EA820646",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Bent Over Row (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39631f"
+    },
+    "hevy_id": "55E6546F",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Bent Over Row (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396320"
+    },
+    "hevy_id": "23E92538",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Bent Over Row (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396321"
+    },
+    "hevy_id": "EB813C91",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Bent Over Row (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396322"
+    },
+    "hevy_id": "A5AC6449",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bicep Curl (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396323"
+    },
+    "hevy_id": "ADA8623C",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bicep Curl (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396324"
+    },
+    "hevy_id": "37FCC2BB",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bicep Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396325"
+    },
+    "hevy_id": "AF328E3D",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bicep Curl (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396326"
+    },
+    "hevy_id": "0B4C1902",
+    "equipment": "suspension",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bicep Curl (Suspension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396327"
+    },
+    "hevy_id": "A41C7261",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bicycle Crunch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396328"
+    },
+    "hevy_id": "594450D2",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Bicycle Crunch Raised Legs",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396329"
+    },
+    "hevy_id": "BD0AD077",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Bird Dog",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39632a"
+    },
+    "hevy_id": "A0D8FA1B",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Boxing",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39632b"
+    },
+    "hevy_id": "56092DD1",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Box Jump",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39632c"
+    },
+    "hevy_id": "38FC1AB9",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Box Squat (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39632d"
+    },
+    "hevy_id": "0F24286A",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Bulgarian Split Squat (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39632e"
+    },
+    "hevy_id": "B5D3A742",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Bulgarian Split Squat (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39632f"
+    },
+    "hevy_id": "BB792A36",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Burpee",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396330"
+    },
+    "hevy_id": "115CC72C",
+    "equipment": null,
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Burpee Broad Jumps",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396331"
+    },
+    "hevy_id": "86B00DDE",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Burpee Over the Bar",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396332"
+    },
+    "hevy_id": "9DCE2D64",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Butterfly (Pec Deck)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396333"
+    },
+    "hevy_id": "CC55119B",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Cable Core Pallof Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396334"
+    },
+    "hevy_id": "23A48484",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Cable Crunch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396335"
+    },
+    "hevy_id": "651F844C",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Cable Fly Crossovers",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396336"
+    },
+    "hevy_id": "8C331CD8",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "lower_back"
+    ],
+    "source": "hevy_api",
+    "title": "Cable Pull Through",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396337"
+    },
+    "hevy_id": "92D858EA",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Cable Twist (Down to up)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396338"
+    },
+    "hevy_id": "A2D838BD",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Cable Twist (Up to down)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396339"
+    },
+    "hevy_id": "47B9DF13",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Calf Extension (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39633a"
+    },
+    "hevy_id": "91237BDD",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Calf Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39633b"
+    },
+    "hevy_id": "6FCD7755",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Dip",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39633c"
+    },
+    "hevy_id": "E9E4089F",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_assisted",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Dip (Assisted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39633d"
+    },
+    "hevy_id": "29472BE1",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Dip (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39633e"
+    },
+    "hevy_id": "DDB7C19F",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Chest Fly (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39633f"
+    },
+    "hevy_id": "12017185",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Chest Fly (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396340"
+    },
+    "hevy_id": "78683336",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Chest Fly (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396341"
+    },
+    "hevy_id": "720B0D70",
+    "equipment": "suspension",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Chest Fly (Suspension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396342"
+    },
+    "hevy_id": "EAC7D9C5",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Press (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396343"
+    },
+    "hevy_id": "7EB3F7C3",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396344"
+    },
+    "hevy_id": "914F3A96",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Supported Incline Row (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396345"
+    },
+    "hevy_id": "B582299E",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Supported Reverse Fly (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396346"
+    },
+    "hevy_id": "6A8D3193",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Supported T Bar Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396347"
+    },
+    "hevy_id": "F21D5693",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Chest Supported Y Raise (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396348"
+    },
+    "hevy_id": "29083183",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Chin Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396349"
+    },
+    "hevy_id": "D23C609B",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_assisted",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Chin Up (Assisted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39634a"
+    },
+    "hevy_id": "023943F1",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Chin Up (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39634b"
+    },
+    "hevy_id": "CC016611",
+    "equipment": "resistance_band",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Clamshell",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39634c"
+    },
+    "hevy_id": "10D76E8F",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Clap Push Ups",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39634d"
+    },
+    "hevy_id": "ABB00838",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Clean",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39634e"
+    },
+    "hevy_id": "9E09CEC3",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Clean and Jerk",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39634f"
+    },
+    "hevy_id": "D3095577",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Clean and Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396350"
+    },
+    "hevy_id": "652FEA39",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Clean Pull",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396351"
+    },
+    "hevy_id": "E23F1F2B",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Climbing",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396352"
+    },
+    "hevy_id": "724CDE60",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Concentration Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396353"
+    },
+    "hevy_id": "8359fb74-60f4-4f3e-a2d6-9522b1271e4b",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": true,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Crab Pull",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396354"
+    },
+    "hevy_id": "32C4D4A2",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Cross Body Hammer Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396355"
+    },
+    "hevy_id": "DCF3B31B",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Crunch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396356"
+    },
+    "hevy_id": "EB43ADD4",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Crunch (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396357"
+    },
+    "hevy_id": "D928C232",
+    "equipment": null,
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Crunch (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396358"
+    },
+    "hevy_id": "D39EC9EB",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "adductors"
+    ],
+    "source": "hevy_api",
+    "title": "Curtsy Lunge (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396359"
+    },
+    "hevy_id": "D8F7F851",
+    "equipment": "machine",
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Cycling",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39635a"
+    },
+    "hevy_id": "D8911FC4",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Dead Bug",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39635b"
+    },
+    "hevy_id": "B9380898",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Dead Hang",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39635c"
+    },
+    "hevy_id": "99507114",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Deadlift (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39635d"
+    },
+    "hevy_id": "C6272009",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Deadlift (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39635e"
+    },
+    "hevy_id": "5F4E6DD3",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Deadlift (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39635f"
+    },
+    "hevy_id": "FA5D0DE1",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Deadlift High Pull",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396360"
+    },
+    "hevy_id": "20870ED5",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Deadlift (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396361"
+    },
+    "hevy_id": "B923B230",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Deadlift (Trap bar)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396362"
+    },
+    "hevy_id": "DA0F0470",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Decline Bench Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396363"
+    },
+    "hevy_id": "18487FA7",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Decline Bench Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396364"
+    },
+    "hevy_id": "FAF31231",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Decline Bench Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396365"
+    },
+    "hevy_id": "FFC106CB",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Decline Bench Press (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396366"
+    },
+    "hevy_id": "A351AED7",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Decline Chest Fly (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396367"
+    },
+    "hevy_id": "BC10A922",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Decline Crunch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396368"
+    },
+    "hevy_id": "B2398CD1",
+    "equipment": null,
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Decline Crunch (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396369"
+    },
+    "hevy_id": "bda4afdf-eab9-4e4c-b265-fb2f96aef6d3",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": true,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Decline Leg raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39636a"
+    },
+    "hevy_id": "C43825EA",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Decline Push Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39636b"
+    },
+    "hevy_id": "6575F52D",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Diamond Push Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39636c"
+    },
+    "hevy_id": "7DA843A3",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Downward Dog",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39636d"
+    },
+    "hevy_id": "D950429E",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Drag Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39636e"
+    },
+    "hevy_id": "AFC29472",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Dragon Flag",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39636f"
+    },
+    "hevy_id": "B7192800",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Dragonfly",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396370"
+    },
+    "hevy_id": "F1E57334",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Dumbbell Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396371"
+    },
+    "hevy_id": "F3717B0E",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Dumbbell Snatch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396372"
+    },
+    "hevy_id": "F72FA239",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Dumbbell Squeeze Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396373"
+    },
+    "hevy_id": "BF6ECE89",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Dumbbell Step Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396374"
+    },
+    "hevy_id": "A01BE509",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Elbow to Knee",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396375"
+    },
+    "hevy_id": "3303376C",
+    "equipment": "machine",
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Elliptical Trainer",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396376"
+    },
+    "hevy_id": "01A35BF9",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "EZ Bar Biceps Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396377"
+    },
+    "hevy_id": "BE640BA0",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "source": "hevy_api",
+    "title": "Face Pull",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396378"
+    },
+    "hevy_id": "50C613D0",
+    "equipment": "other",
+    "exercise_type": "short_distance_weight",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Farmers Walk",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396379"
+    },
+    "hevy_id": "867AC3B6",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Feet Up Bench Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39637a"
+    },
+    "hevy_id": "2AF8B552",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Fire Hydrants",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39637b"
+    },
+    "hevy_id": "D53F2886",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Floor Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39637c"
+    },
+    "hevy_id": "756EE329",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Floor Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39637d"
+    },
+    "hevy_id": "A57D38D5",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Floor Triceps Dip",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39637e"
+    },
+    "hevy_id": "2FA77B28",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Flutter Kicks",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39637f"
+    },
+    "hevy_id": "207DC636",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Frog Jumps",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396380"
+    },
+    "hevy_id": "F6948F17",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Frog Pumps (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396381"
+    },
+    "hevy_id": "0E608350",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Front Lever Hold",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396382"
+    },
+    "hevy_id": "30F03BF0",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Front Lever Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396383"
+    },
+    "hevy_id": "47B036EF",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Front Raise (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396384"
+    },
+    "hevy_id": "BD86EFD5",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Front Raise (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396385"
+    },
+    "hevy_id": "DBB91A3C",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Front Raise (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396386"
+    },
+    "hevy_id": "8293E554",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Front Raise (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396387"
+    },
+    "hevy_id": "796E8E2C",
+    "equipment": "suspension",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Front Raise (Suspension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396388"
+    },
+    "hevy_id": "5046D0A9",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Front Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396389"
+    },
+    "hevy_id": "1283BBA6",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Full Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39638a"
+    },
+    "hevy_id": "CDA23948",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "source": "hevy_api",
+    "title": "Glute Bridge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39638b"
+    },
+    "hevy_id": "49C922A1",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "adductors",
+      "quadriceps"
+    ],
+    "source": "hevy_api",
+    "title": "Glute Bridge (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39638c"
+    },
+    "hevy_id": "68B83EE0",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Glute Ham Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39638d"
+    },
+    "hevy_id": "CBA02382",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Glute Kickback (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39638e"
+    },
+    "hevy_id": "987234AB",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Glute Kickback on Floor",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39638f"
+    },
+    "hevy_id": "3D0C7C75",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Goblet Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396390"
+    },
+    "hevy_id": "4180C405",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ],
+    "source": "hevy_api",
+    "title": "Good Morning (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396391"
+    },
+    "hevy_id": "05487216",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Gorilla Row (Kettlebell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396392"
+    },
+    "hevy_id": "AC5A4C58",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Hack Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396393"
+    },
+    "hevy_id": "1E42FD5F",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Hack Squat (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396394"
+    },
+    "hevy_id": "1D4B3D6B",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Hammer Curl (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396395"
+    },
+    "hevy_id": "36E8F14E",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Hammer Curl (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396396"
+    },
+    "hevy_id": "7E3BC8B6",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Hammer Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396397"
+    },
+    "hevy_id": "BE3615CF",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Handstand Hold",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396398"
+    },
+    "hevy_id": "90B04F96",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "chest",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Handstand Push Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396399"
+    },
+    "hevy_id": "BD4E7E53",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hang Clean",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39639a"
+    },
+    "hevy_id": "08590920",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Hanging Knee Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39639b"
+    },
+    "hevy_id": "F8356514",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Hanging Leg Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39639c"
+    },
+    "hevy_id": "F4E77594",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hang Snatch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39639d"
+    },
+    "hevy_id": "567FB505",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Heel Taps",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39639e"
+    },
+    "hevy_id": "BE89C631",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Hex Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39639f"
+    },
+    "hevy_id": "150E076B",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "High Knees",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a0"
+    },
+    "hevy_id": "C9CCB878",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "High Knee Skips",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a1"
+    },
+    "hevy_id": "023947AB",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "HIIT",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a2"
+    },
+    "hevy_id": "1C34A172",
+    "equipment": null,
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hiking",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a3"
+    },
+    "hevy_id": "C469EA70",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abductors",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hip Abduction (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a4"
+    },
+    "hevy_id": "F4B4C6EE",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abductors",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hip Abduction (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a5"
+    },
+    "hevy_id": "22578A94",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "adductors",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hip Adduction (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a6"
+    },
+    "hevy_id": "8BEBFED6",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "adductors",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hip Adduction (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a7"
+    },
+    "hevy_id": "92B8C7E1",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "source": "hevy_api",
+    "title": "Hip Thrust",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a8"
+    },
+    "hevy_id": "D57C2EC7",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ],
+    "source": "hevy_api",
+    "title": "Hip Thrust (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963a9"
+    },
+    "hevy_id": "DA5430FC",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ],
+    "source": "hevy_api",
+    "title": "Hip Thrust (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963aa"
+    },
+    "hevy_id": "68CE0B9B",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ],
+    "source": "hevy_api",
+    "title": "Hip Thrust (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ab"
+    },
+    "hevy_id": "291ABA92",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ],
+    "source": "hevy_api",
+    "title": "Hip Thrust (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ac"
+    },
+    "hevy_id": "970ADF87",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Hollow Rock",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ad"
+    },
+    "hevy_id": "50DFDFAB",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Incline Bench Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ae"
+    },
+    "hevy_id": "07B38369",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Incline Bench Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963af"
+    },
+    "hevy_id": "3A6FA3D1",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Incline Bench Press (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b0"
+    },
+    "hevy_id": "12e83076-0dc2-4fee-ad82-2e542a52c098",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": true,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Incline Cable Fly",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b1"
+    },
+    "hevy_id": "D3E2AB55",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Incline Chest Fly (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b2"
+    },
+    "hevy_id": "FBF92739",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Incline Chest Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b3"
+    },
+    "hevy_id": "39C99849",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Incline Push Ups",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b4"
+    },
+    "hevy_id": "425805F4",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Inverted Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b5"
+    },
+    "hevy_id": "24706DCD",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Iso-Lateral Chest Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b6"
+    },
+    "hevy_id": "BC3492DA",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Iso-Lateral High Row (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b7"
+    },
+    "hevy_id": "91FAFBA3",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Iso-Lateral Low Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b8"
+    },
+    "hevy_id": "AA1EB7D8",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Iso-Lateral Row (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963b9"
+    },
+    "hevy_id": "32B0B590",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Jackknife Sit Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ba"
+    },
+    "hevy_id": "D410F649",
+    "equipment": "suspension",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Jack Knife (Suspension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963bb"
+    },
+    "hevy_id": "74103F24",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "JM Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963bc"
+    },
+    "hevy_id": "991833C2",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Jumping Jack",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963bd"
+    },
+    "hevy_id": "5CC07A1F",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Jumping Lunge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963be"
+    },
+    "hevy_id": "040BA2E3",
+    "equipment": "other",
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Jump Rope",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963bf"
+    },
+    "hevy_id": "BA3DE542",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Jump Shrug",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c0"
+    },
+    "hevy_id": "70D4EBBF",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Jump Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c1"
+    },
+    "hevy_id": "e9b8c4e4-6511-4608-8039-a7fc33d96f06",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": true,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Kelso Shrug",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c2"
+    },
+    "hevy_id": "55BA475A",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "traps",
+      "chest",
+      "abdominals"
+    ],
+    "source": "hevy_api",
+    "title": "Kettlebell Around the World",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c3"
+    },
+    "hevy_id": "F99C211D",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Kettlebell Clean",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c4"
+    },
+    "hevy_id": "4E239ED8",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Kettlebell Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c5"
+    },
+    "hevy_id": "A127DA73",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Kettlebell Goblet Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c6"
+    },
+    "hevy_id": "4288G454",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "traps",
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Kettlebell Halo",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c7"
+    },
+    "hevy_id": "9B13BA4B",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Kettlebell High Pull",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c8"
+    },
+    "hevy_id": "6433CD93",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Kettlebell Shoulder Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963c9"
+    },
+    "hevy_id": "89304423",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Kettlebell Snatch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ca"
+    },
+    "hevy_id": "F8A0FCCA",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Kettlebell Swing",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.399Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963cb"
+    },
+    "hevy_id": "5F8903BF",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Kettlebell Turkish Get Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963cc"
+    },
+    "hevy_id": "A91838C0",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Kipping Pull Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963cd"
+    },
+    "hevy_id": "D82EA543",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Kneeling Pulldown (band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ce"
+    },
+    "hevy_id": "B74A95BB",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Kneeling Push Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963cf"
+    },
+    "hevy_id": "98237BA2",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Knee Raise Parallel Bars",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d0"
+    },
+    "hevy_id": "923874CA",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [
+      "shoulders",
+      "chest",
+      "upper_back",
+      "traps",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Landmine 180",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d1"
+    },
+    "hevy_id": "D7D7FCCE",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Landmine Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d2"
+    },
+    "hevy_id": "983274DD",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Landmine Squat and Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d3"
+    },
+    "hevy_id": "EC02979E",
+    "equipment": "resistance_band",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "abductors"
+    ],
+    "source": "hevy_api",
+    "title": "Lateral Band Walks",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d4"
+    },
+    "hevy_id": "07EBC4DC",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Lateral Box Jump",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d5"
+    },
+    "hevy_id": "DC59D143",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "abductors"
+    ],
+    "source": "hevy_api",
+    "title": "Lateral Leg Raises",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d6"
+    },
+    "hevy_id": "F2A37357",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "abductors"
+    ],
+    "source": "hevy_api",
+    "title": "Lateral Lunge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d7"
+    },
+    "hevy_id": "DF200976",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lateral Raise (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d8"
+    },
+    "hevy_id": "BE289E45",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lateral Raise (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963d9"
+    },
+    "hevy_id": "422B08F1",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lateral Raise (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963da"
+    },
+    "hevy_id": "D5D0354D",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lateral Raise (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963db"
+    },
+    "hevy_id": "D731CCA8",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "abductors"
+    ],
+    "source": "hevy_api",
+    "title": "Lateral Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963dc"
+    },
+    "hevy_id": "D2FE7B2E",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Lat Pulldown (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963dd"
+    },
+    "hevy_id": "6A6C31A5",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Lat Pulldown (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963de"
+    },
+    "hevy_id": "4E5257DE",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Lat Pulldown - Close Grip (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963df"
+    },
+    "hevy_id": "473CF5B8",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Lat Pulldown (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e0"
+    },
+    "hevy_id": "75A4F6C4",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Leg Extension (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e1"
+    },
+    "hevy_id": "0EB695C9",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Leg Press Horizontal (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e2"
+    },
+    "hevy_id": "C7973E0E",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Leg Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e3"
+    },
+    "hevy_id": "0482DA98",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Leg Raise Parallel Bars",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e4"
+    },
+    "hevy_id": "293483AD",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Low Cable Fly Crossovers",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e5"
+    },
+    "hevy_id": "8A2E6481",
+    "equipment": "suspension",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Low Row (Suspension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e6"
+    },
+    "hevy_id": "6D54A050",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "L-Sit Hold",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e7"
+    },
+    "hevy_id": "5E1A7777",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Lunge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e8"
+    },
+    "hevy_id": "6E6EE645",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Lunge (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963e9"
+    },
+    "hevy_id": "B537D09F",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Lunge (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ea"
+    },
+    "hevy_id": "BD5935CF",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lying Knee Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963eb"
+    },
+    "hevy_id": "B8127AD1",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Lying Leg Curl (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ec"
+    },
+    "hevy_id": "09C9F635",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lying Leg Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ed"
+    },
+    "hevy_id": "22FEDCA4",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "neck",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lying Neck Curls",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ee"
+    },
+    "hevy_id": "31B8DA0F",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "neck",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lying Neck Curls (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ef"
+    },
+    "hevy_id": "0910BD28",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "neck",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lying Neck Extension",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f0"
+    },
+    "hevy_id": "D6A73CF2",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "neck",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Lying Neck Extension (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f1"
+    },
+    "hevy_id": "C732C341",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Meadows Rows (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f2"
+    },
+    "hevy_id": "F49E31D6",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Mountain Climber",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f3"
+    },
+    "hevy_id": "9F9C164B",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Muscle Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f4"
+    },
+    "hevy_id": "F60BDDF8",
+    "equipment": null,
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Negative Pull Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f5"
+    },
+    "hevy_id": "108D7A14",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Nordic Hamstrings Curls",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f6"
+    },
+    "hevy_id": "DBE341AA",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Oblique Crunch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f7"
+    },
+    "hevy_id": "B140095E",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "One Arm Push Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f8"
+    },
+    "hevy_id": "582ADA23",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Overhead Curl (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963f9"
+    },
+    "hevy_id": "4C6721B9",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "shoulders",
+      "triceps",
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Overhead Dumbbell Lunge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963fa"
+    },
+    "hevy_id": "54E60954",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Overhead Plate Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963fb"
+    },
+    "hevy_id": "7B8D84E8",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps",
+      "abdominals"
+    ],
+    "source": "hevy_api",
+    "title": "Overhead Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963fc"
+    },
+    "hevy_id": "6AC96645",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Overhead Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963fd"
+    },
+    "hevy_id": "B09A1304",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Overhead Press (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963fe"
+    },
+    "hevy_id": "2CFED196",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Overhead Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3963ff"
+    },
+    "hevy_id": "2f42b4ea-2130-420b-afa5-1d74d464dd45",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": true,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Overhead Triceps Extension",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396400"
+    },
+    "hevy_id": "B5EFBF9C",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Overhead Triceps Extension (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396401"
+    },
+    "hevy_id": "FBEE8279",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "adductors"
+    ],
+    "source": "hevy_api",
+    "title": "Partial Glute Bridge (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396402"
+    },
+    "hevy_id": "CE1054CE",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Pause Squat (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396403"
+    },
+    "hevy_id": "018ADC12",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Pendlay Row (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396404"
+    },
+    "hevy_id": "30E293E3",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Pendulum Squat (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396405"
+    },
+    "hevy_id": "0EFE8162",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps",
+      "chest"
+    ],
+    "source": "hevy_api",
+    "title": "Pike Pushup",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396406"
+    },
+    "hevy_id": "EC2510CD",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Pilates",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396407"
+    },
+    "hevy_id": "942BAD12",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Pinwheel Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396408"
+    },
+    "hevy_id": "3FF6A22E",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Pistol Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396409"
+    },
+    "hevy_id": "C6C9B8A0",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Plank",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39640a"
+    },
+    "hevy_id": "31436F5D",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps",
+      "abdominals"
+    ],
+    "source": "hevy_api",
+    "title": "Plank Pushup",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39640b"
+    },
+    "hevy_id": "9283ABD5",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Plate Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39640c"
+    },
+    "hevy_id": "DBF9273A",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Plate Front Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39640d"
+    },
+    "hevy_id": "982734D4",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Plate Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39640e"
+    },
+    "hevy_id": "9373FSD1",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Plate Squeeze (Svend Press)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39640f"
+    },
+    "hevy_id": "C628D768",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Power Clean",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396410"
+    },
+    "hevy_id": "E22F9358",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Power Snatch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396411"
+    },
+    "hevy_id": "4F942934",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Preacher Curl (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396412"
+    },
+    "hevy_id": "FAB6EB2F",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Preacher Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396413"
+    },
+    "hevy_id": "1E9A6B8E",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Preacher Curl (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396414"
+    },
+    "hevy_id": "84A77566",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Press Under",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396415"
+    },
+    "hevy_id": "67280085",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "chest",
+      "upper_back",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Pullover (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396416"
+    },
+    "hevy_id": "B123DD01",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "chest",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Pullover (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396417"
+    },
+    "hevy_id": "1B2B1E7C",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Pull Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396418"
+    },
+    "hevy_id": "2C37EC5E",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_assisted",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Pull Up (Assisted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396419"
+    },
+    "hevy_id": "56808FD2",
+    "equipment": "resistance_band",
+    "exercise_type": "bodyweight_assisted",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Pull Up (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39641a"
+    },
+    "hevy_id": "729237D1",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Pull Up (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39641b"
+    },
+    "hevy_id": "542F3CD5",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps",
+      "quadriceps"
+    ],
+    "source": "hevy_api",
+    "title": "Push Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39641c"
+    },
+    "hevy_id": "392887AA",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Push Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39641d"
+    },
+    "hevy_id": "947DAC23",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Push Up - Close Grip",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39641e"
+    },
+    "hevy_id": "19372ABC",
+    "equipment": null,
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Push Up (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39641f"
+    },
+    "hevy_id": "FE389074",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "lower_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Rack Pull",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396420"
+    },
+    "hevy_id": "C315DC2A",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Rear Delt Reverse Fly (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396421"
+    },
+    "hevy_id": "E5988A0A",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Rear Delt Reverse Fly (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396422"
+    },
+    "hevy_id": "D8281C62",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Rear Delt Reverse Fly (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396423"
+    },
+    "hevy_id": "1ADF8723",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Rear Kick (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396424"
+    },
+    "hevy_id": "7FD2EC3E",
+    "equipment": "machine",
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Recumbent Bike",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396425"
+    },
+    "hevy_id": "1B89CA1B",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Renegade Row (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396426"
+    },
+    "hevy_id": "7a0e9aad-3d54-49bf-8621-6bd0cbd3ead7",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": true,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Reverse Bar Pushdown",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396427"
+    },
+    "hevy_id": "7952B5CD",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Reverse Crunch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396428"
+    },
+    "hevy_id": "112FC6B7",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Curl (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396429"
+    },
+    "hevy_id": "9F48F858",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Curl (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39642a"
+    },
+    "hevy_id": "B567DD46",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39642b"
+    },
+    "hevy_id": "9264ADA1",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Fly Single Arm (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39642c"
+    },
+    "hevy_id": "1FF4097B",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Grip Concentration Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39642d"
+    },
+    "hevy_id": "046E25A2",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Grip Lat Pulldown (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39642e"
+    },
+    "hevy_id": "8B5BED30",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Reverse Grip Triceps Pushdown",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39642f"
+    },
+    "hevy_id": "7C0028C3",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "lower_back"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Hyperextension",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396430"
+    },
+    "hevy_id": "C284D923",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Lunge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396431"
+    },
+    "hevy_id": "818BA121",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Lunge (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396432"
+    },
+    "hevy_id": "FFDA283B",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Lunge (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396433"
+    },
+    "hevy_id": "99B49684",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Reverse Plank",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396434"
+    },
+    "hevy_id": "D8460FA6",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Reverse Wrist Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396435"
+    },
+    "hevy_id": "51A0EDAA",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Ring Dips",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396436"
+    },
+    "hevy_id": "5F09F0FC",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Ring Pull Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396437"
+    },
+    "hevy_id": "AEA56BDC",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Ring Push Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396438"
+    },
+    "hevy_id": "2B4B7310",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ],
+    "source": "hevy_api",
+    "title": "Romanian Deadlift (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396439"
+    },
+    "hevy_id": "72CFFAD5",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ],
+    "source": "hevy_api",
+    "title": "Romanian Deadlift (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39643a"
+    },
+    "hevy_id": "0B9B92BA",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ],
+    "source": "hevy_api",
+    "title": "Romanian Deadlift (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39643b"
+    },
+    "hevy_id": "234897AB",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Rope Cable Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39643c"
+    },
+    "hevy_id": "9273BA17",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Rope Straight Arm Pulldown",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39643d"
+    },
+    "hevy_id": "0222DB42",
+    "equipment": "machine",
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Rowing Machine",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39643e"
+    },
+    "hevy_id": "AC1BB830",
+    "equipment": null,
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Running",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39643f"
+    },
+    "hevy_id": "BB83BDDE",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Russian Twist (Bodyweight)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396440"
+    },
+    "hevy_id": "2982AA23",
+    "equipment": "plate",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Russian Twist (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396441"
+    },
+    "hevy_id": "C7AE420A",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Scapular Pull Ups",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396442"
+    },
+    "hevy_id": "DF3BDB9C",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Seal Row (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396443"
+    },
+    "hevy_id": "7E93E23F",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Seal Row (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396444"
+    },
+    "hevy_id": "F1D60854",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Cable Row - Bar Grip",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396445"
+    },
+    "hevy_id": "C3BCABB3",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "traps",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Cable Row - Bar Wide Grip",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396446"
+    },
+    "hevy_id": "0393F233",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Cable Row - V Grip (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396447"
+    },
+    "hevy_id": "062AB91A",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Calf Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396448"
+    },
+    "hevy_id": "6B4C797E",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Chest Flys (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396449"
+    },
+    "hevy_id": "5122E7D9",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Dip Machine",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39644a"
+    },
+    "hevy_id": "8BAB2735",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Incline Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39644b"
+    },
+    "hevy_id": "C01F58D1",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Incline Hammer Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39644c"
+    },
+    "hevy_id": "9372FFAA",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Lateral Raise (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39644d"
+    },
+    "hevy_id": "11A123F3",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Leg Curl (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39644e"
+    },
+    "hevy_id": "91AF29E0",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Overhead Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39644f"
+    },
+    "hevy_id": "9930DF71",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Overhead Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396450"
+    },
+    "hevy_id": "1006DF48",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Palms Up Wrist Curl",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396451"
+    },
+    "hevy_id": "1DF4A847",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Row (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396452"
+    },
+    "hevy_id": "9237BAD1",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Seated Shoulder Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396453"
+    },
+    "hevy_id": "234BC743",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Triceps Press",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396454"
+    },
+    "hevy_id": "95F2E076",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Wrist Curl (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396455"
+    },
+    "hevy_id": "9202CC23",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "forearms",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Seated Wrist Extension (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396456"
+    },
+    "hevy_id": "878CD1D0",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Shoulder Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396457"
+    },
+    "hevy_id": "059E835D",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Shoulder Press (Machine Plates)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396458"
+    },
+    "hevy_id": "502FCE31",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "chest",
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Shoulder Taps",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396459"
+    },
+    "hevy_id": "0B841777",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "traps",
+    "secondary_muscles": [
+      "neck"
+    ],
+    "source": "hevy_api",
+    "title": "Shrug (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39645a"
+    },
+    "hevy_id": "FFABC123",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "traps",
+    "secondary_muscles": [
+      "neck"
+    ],
+    "source": "hevy_api",
+    "title": "Shrug (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39645b"
+    },
+    "hevy_id": "ABEC557F",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "traps",
+    "secondary_muscles": [
+      "neck"
+    ],
+    "source": "hevy_api",
+    "title": "Shrug (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39645c"
+    },
+    "hevy_id": "19A38071",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "traps",
+    "secondary_muscles": [
+      "neck"
+    ],
+    "source": "hevy_api",
+    "title": "Shrug (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39645d"
+    },
+    "hevy_id": "742E5BD5",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "traps",
+    "secondary_muscles": [
+      "neck"
+    ],
+    "source": "hevy_api",
+    "title": "Shrug (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39645e"
+    },
+    "hevy_id": "37F9EDA7",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Side Bend",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39645f"
+    },
+    "hevy_id": "026FD047",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Side Bend (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396460"
+    },
+    "hevy_id": "E3EDA509",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Side Plank",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396461"
+    },
+    "hevy_id": "8372BBCC",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Arm Cable Crossover",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396462"
+    },
+    "hevy_id": "D0C4A899",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Single Arm Cable Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396463"
+    },
+    "hevy_id": "B33B526E",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Arm Curl (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396464"
+    },
+    "hevy_id": "1837BA23",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps",
+      "chest"
+    ],
+    "source": "hevy_api",
+    "title": "Single Arm Landmine Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396465"
+    },
+    "hevy_id": "DE68C825",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Arm Lateral Raise (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396466"
+    },
+    "hevy_id": "2EE45F81",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Single Arm Lat Pulldown",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396467"
+    },
+    "hevy_id": "8347DFD1",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Arm Tricep Extension (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396468"
+    },
+    "hevy_id": "552AB030",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Arm Triceps Pushdown (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396469"
+    },
+    "hevy_id": "629AE73D",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Leg Extensions",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39646a"
+    },
+    "hevy_id": "CBC0D834",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "source": "hevy_api",
+    "title": "Single Leg Glute Bridge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39646b"
+    },
+    "hevy_id": "487B3755",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "source": "hevy_api",
+    "title": "Single Leg Hip Thrust",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39646c"
+    },
+    "hevy_id": "D1CD146F",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "source": "hevy_api",
+    "title": "Single Leg Hip Thrust (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39646d"
+    },
+    "hevy_id": "3FD83744",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Single Leg Press (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39646e"
+    },
+    "hevy_id": "93472AC1",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ],
+    "source": "hevy_api",
+    "title": "Single Leg Romanian Deadlift (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39646f"
+    },
+    "hevy_id": "937292AB",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "source": "hevy_api",
+    "title": "Single Leg Romanian Deadlift (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396470"
+    },
+    "hevy_id": "238BA231",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Leg Standing Calf Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396471"
+    },
+    "hevy_id": "E51CCBE5",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Leg Standing Calf Raise (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396472"
+    },
+    "hevy_id": "5DA40761",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Leg Standing Calf Raise (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396473"
+    },
+    "hevy_id": "B05C2C29",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Single Leg Standing Calf Raise (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396474"
+    },
+    "hevy_id": "F5DEF1EB",
+    "equipment": null,
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Sissy Squat (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396475"
+    },
+    "hevy_id": "022DF610",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Sit Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396476"
+    },
+    "hevy_id": "9237BA12",
+    "equipment": null,
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Sit Up (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396477"
+    },
+    "hevy_id": "24A809EF",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Skating",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396478"
+    },
+    "hevy_id": "5D99A2FA",
+    "equipment": "machine",
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Ski Erg",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396479"
+    },
+    "hevy_id": "84325755",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Skiing",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39647a"
+    },
+    "hevy_id": "875F585F",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Skullcrusher (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39647b"
+    },
+    "hevy_id": "68F8A292",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Skullcrusher (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39647c"
+    },
+    "hevy_id": "23678b2a-b587-431d-b300-bde1c7cc0f54",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": true,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Skull Crusher Machine",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39647d"
+    },
+    "hevy_id": "7D1BD41D",
+    "equipment": "other",
+    "exercise_type": "short_distance_weight",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Sled Pull",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39647e"
+    },
+    "hevy_id": "7757171F",
+    "equipment": "other",
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Sled Push",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39647f"
+    },
+    "hevy_id": "FB09C938",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Snatch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396480"
+    },
+    "hevy_id": "911A58D3",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Snowboarding",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396481"
+    },
+    "hevy_id": "2348AB72",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Spider Curl (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396482"
+    },
+    "hevy_id": "90427D4A",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Spider Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396483"
+    },
+    "hevy_id": "C10A5AC9",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Spiderman",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396484"
+    },
+    "hevy_id": "213AB238",
+    "equipment": "machine",
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Spinning",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396485"
+    },
+    "hevy_id": "E764B907",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Split Jerk",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396486"
+    },
+    "hevy_id": "20C1A3CB",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Split Squat (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396487"
+    },
+    "hevy_id": "9283BABA",
+    "equipment": null,
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Sprints",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396488"
+    },
+    "hevy_id": "F1258206",
+    "equipment": "resistance_band",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Squat (Band)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396489"
+    },
+    "hevy_id": "D04AC939",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Squat (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39648a"
+    },
+    "hevy_id": "9694DA61",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Squat (Bodyweight)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39648b"
+    },
+    "hevy_id": "DCFF3E9F",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Squat (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39648c"
+    },
+    "hevy_id": "CC35A01F",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Squat (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39648d"
+    },
+    "hevy_id": "A8814C06",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Squat Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39648e"
+    },
+    "hevy_id": "DDCC3821",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Squat (Smith Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39648f"
+    },
+    "hevy_id": "B82D6418",
+    "equipment": "suspension",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Squat (Suspension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396490"
+    },
+    "hevy_id": "4377A52B",
+    "equipment": "machine",
+    "exercise_type": "floors_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Stair Machine (Floors)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396491"
+    },
+    "hevy_id": "4377A52C",
+    "equipment": "machine",
+    "exercise_type": "steps_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Stair Machine (Steps)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396492"
+    },
+    "hevy_id": "ACB2751D",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Standing Cable Glute Kickbacks",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396493"
+    },
+    "hevy_id": "06745E58",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Standing Calf Raise",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396494"
+    },
+    "hevy_id": "E53CCBE5",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Standing Calf Raise (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396495"
+    },
+    "hevy_id": "6DA40660",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Standing Calf Raise (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396496"
+    },
+    "hevy_id": "E05C2C38",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Standing Calf Raise (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396497"
+    },
+    "hevy_id": "AA52E8D2",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Standing Calf Raise (Smith)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396498"
+    },
+    "hevy_id": "6120CAAB",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "calves"
+    ],
+    "source": "hevy_api",
+    "title": "Standing Leg Curls",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd396499"
+    },
+    "hevy_id": "073032BB",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Standing Military Press (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39649a"
+    },
+    "hevy_id": "28927A36",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "upper_back"
+    ],
+    "source": "hevy_api",
+    "title": "Standing Y Raise (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39649b"
+    },
+    "hevy_id": "128A2381",
+    "equipment": "other",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Step Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39649c"
+    },
+    "hevy_id": "EE2938D1",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Sternum Pull up (Gironda)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39649d"
+    },
+    "hevy_id": "D2387AB1",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "source": "hevy_api",
+    "title": "Straight Arm Lat Pulldown (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39649e"
+    },
+    "hevy_id": "2A48E443",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Straight Leg Deadlift",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd39649f"
+    },
+    "hevy_id": "527DA061",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "other",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Stretching",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a0"
+    },
+    "hevy_id": "7593855D",
+    "equipment": "dumbbell",
+    "exercise_type": "short_distance_weight",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Suitcase Carry (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a1"
+    },
+    "hevy_id": "D20D7BBE",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "glutes",
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps",
+      "adductors",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ],
+    "source": "hevy_api",
+    "title": "Sumo Deadlift",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a2"
+    },
+    "hevy_id": "3F5F8D40",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Sumo Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a3"
+    },
+    "hevy_id": "6622E5A0",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "adductors"
+    ],
+    "source": "hevy_api",
+    "title": "Sumo Squat (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a4"
+    },
+    "hevy_id": "05293BCA",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Sumo Squat (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a5"
+    },
+    "hevy_id": "5E10D0E6",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Sumo Squat (Kettlebell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a6"
+    },
+    "hevy_id": "218DA87C",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lower_back",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Superman",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a7"
+    },
+    "hevy_id": "B60A678F",
+    "equipment": null,
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Swimming",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a8"
+    },
+    "hevy_id": "08A2974E",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "upper_back",
+    "secondary_muscles": [
+      "lats",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "T Bar Row",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964a9"
+    },
+    "hevy_id": "90E506D5",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Thruster (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964aa"
+    },
+    "hevy_id": "10313AFD",
+    "equipment": "kettlebell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Thruster (Kettlebell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964ab"
+    },
+    "hevy_id": "B94E35E1",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Toes to Bar",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964ac"
+    },
+    "hevy_id": "75BAC5C3",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Toe Touch",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964ad"
+    },
+    "hevy_id": "FBB62888",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Torso Rotation",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964ae"
+    },
+    "hevy_id": "243710DE",
+    "equipment": "machine",
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Treadmill",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964af"
+    },
+    "hevy_id": "28BB4A95",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Triceps Dip",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b0"
+    },
+    "hevy_id": "4B4BF8C2",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_assisted",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Triceps Dip (Assisted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b1"
+    },
+    "hevy_id": "10347BAC",
+    "equipment": "machine",
+    "exercise_type": "bodyweight_weighted",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Triceps Dip (Weighted)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b2"
+    },
+    "hevy_id": "2F8D3067",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Extension (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b3"
+    },
+    "hevy_id": "21310F5F",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Extension (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b4"
+    },
+    "hevy_id": "3765684D",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Extension (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b5"
+    },
+    "hevy_id": "3092FADD",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Extension (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b6"
+    },
+    "hevy_id": "6182EE83",
+    "equipment": "suspension",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Extension (Suspension)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b7"
+    },
+    "hevy_id": "EC3B69A3",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Kickback (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b8"
+    },
+    "hevy_id": "6127A3AD",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Kickback (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964b9"
+    },
+    "hevy_id": "CDC472B1",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Pressdown",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964ba"
+    },
+    "hevy_id": "93A552C6",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Pushdown",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964bb"
+    },
+    "hevy_id": "94B7239B",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Triceps Rope Pushdown",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964bc"
+    },
+    "hevy_id": "7AB9A362",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "traps",
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Upright Row (Barbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964bd"
+    },
+    "hevy_id": "286C1D0B",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "traps",
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Upright Row (Cable)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964be"
+    },
+    "hevy_id": "797F0782",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "traps",
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Upright Row (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964bf"
+    },
+    "hevy_id": "72880C57",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Vertical Traction (Machine)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c0"
+    },
+    "hevy_id": "6BE68B62",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "abdominals",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "V Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c1"
+    },
+    "hevy_id": "72297E8C",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Waiter Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c2"
+    },
+    "hevy_id": "33EDD7DB",
+    "equipment": null,
+    "exercise_type": "distance_duration",
+    "is_custom": false,
+    "primary_muscle": "cardio",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Walking",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c3"
+    },
+    "hevy_id": "32HKJ34K",
+    "equipment": null,
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Walking Lunge",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c4"
+    },
+    "hevy_id": "A733CC5B",
+    "equipment": "dumbbell",
+    "exercise_type": "short_distance_weight",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "source": "hevy_api",
+    "title": "Walking Lunge (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c5"
+    },
+    "hevy_id": "F30A4F01",
+    "equipment": "other",
+    "exercise_type": "short_distance_weight",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "source": "hevy_api",
+    "title": "Walking Lunge (Sandbag)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c6"
+    },
+    "hevy_id": "A1F47ACC",
+    "equipment": "other",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Wall Ball",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c7"
+    },
+    "hevy_id": "C8706C80",
+    "equipment": "other",
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "abdominals"
+    ],
+    "source": "hevy_api",
+    "title": "Wall Sit",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c8"
+    },
+    "hevy_id": "79EF4E4F",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Warm Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964c9"
+    },
+    "hevy_id": "B31EB524",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Wide-Elbow Triceps Press (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964ca"
+    },
+    "hevy_id": "7C50F118",
+    "equipment": "machine",
+    "exercise_type": "reps_only",
+    "is_custom": false,
+    "primary_muscle": "lats",
+    "secondary_muscles": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Wide Pull Up",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964cb"
+    },
+    "hevy_id": "0E4523F4",
+    "equipment": "machine",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "forearms",
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "source": "hevy_api",
+    "title": "Wrist Roller",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964cc"
+    },
+    "hevy_id": "8C9D2928",
+    "equipment": null,
+    "exercise_type": "duration",
+    "is_custom": false,
+    "primary_muscle": "full_body",
+    "secondary_muscles": [],
+    "source": "hevy_api",
+    "title": "Yoga",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964cd"
+    },
+    "hevy_id": "40C6A9FC",
+    "equipment": "barbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "hamstrings",
+      "glutes",
+      "biceps"
+    ],
+    "source": "hevy_api",
+    "title": "Zercher Squat",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac937bd6999d171dd3964ce"
+    },
+    "hevy_id": "123EE239",
+    "equipment": "dumbbell",
+    "exercise_type": "weight_reps",
+    "is_custom": false,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "source": "hevy_api",
+    "title": "Zottman Curl (Dumbbell)",
+    "updatedAt": {
+      "$date": "2026-10-09T18:51:40.400Z"
+    }
+  }
+]

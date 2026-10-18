@@ -1,0 +1,17 @@
+node_modules/
+.next/
+dist/
+build/
+.expo/
+android/
+ios/
+*.log
+.DS_Store
+.env
+.env.local
+coverage/
+turbo/
+.opencode/
+.turbo/
+infra/minio/data/
+opencode.json

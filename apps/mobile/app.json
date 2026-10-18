@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Sculpt",
+    "slug": "sculpt",
+    "scheme": "sculpt",
+    "web": { "bundler": "metro" },
+    "plugins": ["expo-router"],
+    "extra": { "apiUrl": "http://10.0.2.2:4000", "localFirst": false }
+  }
+}
